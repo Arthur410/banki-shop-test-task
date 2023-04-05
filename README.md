@@ -1,4 +1,6 @@
 # banki-shop-test-task
+###Demonstation
+![all text](https://github.com/Arthur410/banki-shop-test-task/blob/master/demonstration.mp4)
 
 ## Project setup
 ```
