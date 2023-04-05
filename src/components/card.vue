@@ -242,6 +242,10 @@ export default {
   justify-content: center;
 }
 
+.painting-card_image {
+  cursor:pointer;
+}
+
 .painting-card_sold {
   margin-top: 10px;
 }
