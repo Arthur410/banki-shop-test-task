@@ -1,5 +1,5 @@
 # banki-shop-test-task
-### Demonstation
+### Demonstration
 ![all text](https://github.com/Arthur410/banki-shop-test-task/blob/master/demonstration.gif)
 
 ## Project setup
